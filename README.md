@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @raushan023
+- 👋 Hi, I’m Raushan Kumar
 - 👀 I’m interested in Front End Development
 - 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on ...
