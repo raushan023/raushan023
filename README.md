@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Raushan Kumar
-- 👀 I’m interested in Front End Development
-- 🌱 I’m currently learning React Native
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m into Full Stack Development
 - 📫 You can reach me out on LinkedIn - https://www.linkedin.com/in/raushan-kumar-4167b7a2/
 
 <!---
